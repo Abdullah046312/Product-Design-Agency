@@ -1,6 +1,6 @@
 import React from 'react';
 import Container from './Container';
-import logo from "../assets/Logo.png";
+import logo from "../assets/logo.png"
 import { RiFacebookCircleLine } from "react-icons/ri";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";
@@ -65,7 +65,7 @@ const Footer = () => {
           <div className="w-full sm:w-[50%] md:w-[16%]">
             <h2 className='text-[20px] text-[#161616] font-Inter font-semibold'>Contact</h2>
             <h4 className='text-[16px] text-[#5D5D5D] font-Inter font-normal'>
-              524 Broadway , NYC <br />
+              524 Broadway , NYC 
               +1 777 - 978 - 5570
             </h4>
           </div>
